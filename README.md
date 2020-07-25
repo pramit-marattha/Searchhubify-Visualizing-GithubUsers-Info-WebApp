@@ -29,7 +29,8 @@ Brad-traversy    | John-smilga
 - First step is to download this repo 
 - place it inside a project directory 
 - Then Configure the `context.js` and charts file 
--`Insert your own GitHub Api key`
+
+## `Insert your own GitHub Api key` inside mockRepo..followers &..users
 
 ### Setup process
 type `npm start`
