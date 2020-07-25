@@ -5,7 +5,7 @@ A very simple web app to visualize the profile of GitHub users.(Git commits , la
 
 #### ```using Github api to visualize the info about the users```
 
-## It's Live 🎉 Visit here ==>https://searchjobhub.netlify.app/
+## It's Live 🎉 Visit here ==>https://searchhubify.netlify.app/
 
 
 
